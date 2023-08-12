@@ -1,4 +1,4 @@
-# streamlit-geospatial
+# Streamlit-Geospatial-GPT
 
 A streamlit multipage app for geospatial applications. It can be deployed to [Streamlit Cloud](https://streamlit.io/cloud), [Heroku](https://heroku.com/), or [MyBinder](https://mybinder.org/).
 
