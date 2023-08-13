@@ -6,16 +6,16 @@ st.set_page_config(layout="wide")
 st.sidebar.title("About")
 st.sidebar.info(
     """
-    - Web App URL: <https://streamlit.geemap.org>
-    - GitHub repository: <https://github.com/giswqs/streamlit-geospatial>
+    - Web App URL: <https://app-geospatial-gpt.streamlit.app/>
+    - GitHub repository: <https://github.com/WildcatGeo/streamlit-geospatial-GPT>
     """
 )
 
 st.sidebar.title("Contact")
 st.sidebar.info(
     """
-    Qiusheng Wu: <https://wetlands.io>
-    [GitHub](https://github.com/giswqs) | [Twitter](https://twitter.com/giswqs) | [YouTube](https://www.youtube.com/c/QiushengWu) | [LinkedIn](https://www.linkedin.com/in/qiushengwu)
+    Tyler Hargrove: <https://www.linkedin.com/in/wildcatgeologicalconsultant/>
+    [GitHub](https://github.com/WildcatGeo)
     """
 )
 
@@ -28,7 +28,7 @@ st.sidebar.info(
 )
 
 
-st.title("Streamlit for Geospatial Applications")
+st.title("Geospatial GPT")
 
 st.markdown(
     """
