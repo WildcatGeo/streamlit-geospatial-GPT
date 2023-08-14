@@ -13,13 +13,13 @@ st.sidebar.info(
 st.sidebar.title("Contact")
 st.sidebar.info(
     """
-    Qiusheng Wu: <https://wetlands.io>
-    [GitHub](https://github.com/giswqs) | [Twitter](https://twitter.com/giswqs) | [YouTube](https://www.youtube.com/c/QiushengWu) | [LinkedIn](https://www.linkedin.com/in/qiushengwu)
+    Tyler Hargrove: <https://wetlands.io>
+    [GitHub](https://github.com/WildcatGeo/) | [Twitter](https://twitter.com/wildcatgeo) | [LinkedIn](https://www.linkedin.com/in/wildcatgeologicalconsultant/)
     """
 )
 
 # Customize page title
-st.title("Streamlit for Geospatial Applications")
+st.title("Geothermal GPT")
 
 st.markdown(
     """
