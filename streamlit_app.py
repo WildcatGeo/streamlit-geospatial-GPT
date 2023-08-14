@@ -19,7 +19,7 @@ st.sidebar.info(
 )
 
 # Customize page title
-st.title("Geothermal GPT")
+st.title("Streamlit Geospatial GPT ")
 
 st.markdown(
     """
